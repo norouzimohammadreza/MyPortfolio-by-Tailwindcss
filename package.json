@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "watch" : "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "server" : "live-server ./src"
+  },
+  
+  
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
